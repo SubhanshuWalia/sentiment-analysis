@@ -25,6 +25,3 @@ Naive Bayes:
 ![image](https://github.com/SubhanshuWalia/sentiment-analysis/assets/150337661/c241b7d6-21be-4d39-b153-96bc4c60167d)
 
 The model accuracy remains 75%.
-
---Contributors: divanshu-walia
-
