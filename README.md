@@ -26,5 +26,5 @@ Naive Bayes:
 
 The model accuracy remains 75%.
 
-
+--Contributors: divanshu-walia
 
